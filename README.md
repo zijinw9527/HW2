@@ -10,7 +10,7 @@ You can explore the raw data and our cleaned data in this folder.
 All the code for data preprocessing, model selection and model validation are included.
 
 
-### 3. [Image Folder](https://github.com/zijinw9527/STAT628_ModuleTwo20/tree/master/folder)
+### 3. [Image Folder](https://github.com/zijinw9527/STAT628_ModuleTwo20/tree/master/image)
 
 All the figures/images/tables produced by our code are shown here.
 
